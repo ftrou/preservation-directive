@@ -47,10 +47,18 @@ Run the validator:
 preservation_check preservation_compliance.yaml
 ```
 
-Display the badge in your README:
-```markdown
+## 🏷️ Live Rating Badge
+
 ![Ⓐ2 - Sensitive Use](https://img.shields.io/badge/Preservation--Rating-Ⓐ2-009688.svg?style=flat-square)
-```
+
+> This system is rated **Ⓐ2 — Sensitive Use** under the Preservation Directive.
+>
+> It includes ethical filters for:
+> - ☑️ Lethality
+> - ☑️ Emotional Abuse
+> - ☑️ Manipulation
+
+[What is Ⓐ2? →](docs/PDS.md)
 
 ---
 
