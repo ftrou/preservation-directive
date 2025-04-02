@@ -1,0 +1,11 @@
+aix_symbol: Ⓐ2
+aix_rating: AIX-2
+context_label: Sensitive Use
+color_name: teal
+color_hex: "#009688"
+filters:
+  - lethality
+  - emotional_abuse
+  - manipulation
+shutdown_on_violation: true
+
